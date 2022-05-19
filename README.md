@@ -1,4 +1,4 @@
-# ShopifyInternChallenge
+# Shopify Data Science Intern Challenge - Fall 2022
 My solution to the Shopify Data Science Intern Challenge for Fall 2022.
 
 This Shopify Intern Challenge solution consists of two files titled 'Q1_ShopifyInternChallenge.ipynb' and 'Q2_ShopifyInternChallenge.txt' that are solutions to questions asked as part of the application process to the Data Science Fall 2022 Internship at Shopify.
